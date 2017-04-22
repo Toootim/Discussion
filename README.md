@@ -1,5 +1,5 @@
 # Discussion
-A general forum for site wide discussion and issue reports
+## A general forum for site wide discussion and issue reports
 
 General forum to discuss issues with Tooot.im that don't fit into any other repo.
 
